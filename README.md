@@ -65,6 +65,15 @@ The main hosted entry points are:
 | Pricing | [pricing](https://promptcellarcloud.space/pricing/?utm_source=github&utm_medium=documentation&utm_campaign=promptcellar_cloud_docs&utm_content=readme_links_pricing) |
 | Checkout | [checkout](https://promptcellarcloud.space/checkout/?utm_source=github&utm_medium=documentation&utm_campaign=promptcellar_cloud_docs&utm_content=readme_links_checkout) |
 
+## Related Public Projects
+
+Open these when prompt records need to move from storage into repeatable agent execution or scenario testing:
+
+| Project | Tracked link | Why it helps |
+| --- | --- | --- |
+| MiroFish | [mirofish.work](https://mirofish.work/?utm_source=github&utm_medium=documentation&utm_campaign=promptcellar_cloud_docs&utm_content=related_mirofish) | Useful when prompt packs should be tested inside a multi-agent simulation and report workflow. |
+| Ruflo | [ruflo.online](https://ruflo.online/?utm_source=github&utm_medium=documentation&utm_campaign=promptcellar_cloud_docs&utm_content=related_ruflo) | Useful when saved prompts become part of a coordinated agent workspace with MCP tools, roles, and review checkpoints. |
+
 ## Default Evaluation Path
 
 1. Upload JSONL prompt files, terminal logs, or agent transcript exports.
